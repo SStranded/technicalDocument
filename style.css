@@ -1,0 +1,22 @@
+body {
+  font-size: 1rem;
+}
+
+#main-doc {
+  padding: 20px 0;
+}
+
+header {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+li {
+  list-style-type: square;
+}
+
+.code {
+  background-color: #cecece;
+  font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+  font-size: 12px;
+}
